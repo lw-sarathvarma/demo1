@@ -3,7 +3,7 @@ name: Demo for Automation
 on:
   push:
     branches:
-    - auto-build
+    - main
 
 jobs:
   deploy:
